@@ -1,2 +1,3 @@
 # growthWebpage
-same webpage designed.
+sample web page designing from the scratch.
+

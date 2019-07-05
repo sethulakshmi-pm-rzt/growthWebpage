@@ -1,0 +1,31 @@
+{
+  "name": "growthWebpage",
+  "version": "1.0.0",
+  "description": "sample web page designing",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethulakshmi-pm-rzt/growthWebpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethulakshmi-pm-rzt/growthWebpage/issues"
+  },
+  "homepage": "https://github.com/sethulakshmi-pm-rzt/growthWebpage#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5",
+    "webpack-dev-server": "^3.7.2"
+  }
+}
