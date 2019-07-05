@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import HomePage from './HomePage/HomePage';
 
 class App extends Component {
   render() {
-    return (<div>HOME PAGE</div>);
+    return (<HomePage />);
   }
 }
 
